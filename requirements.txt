@@ -1,0 +1,7 @@
+numpy==1.21.5
+googletrans==4.0.0-rc1
+diffusers==0.2.0
+torch
+streamlit==1.4.0
+gradio==2.3.0
+opencv-python-headless==4.5.4.60
